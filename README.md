@@ -5,4 +5,4 @@ As a browser user
 So I can find websites quicker  
 I want to see a list of bookmarks  
 
-![This is an image](./public/images/model.png)
+![Domain Model](./public/images/model.png)
