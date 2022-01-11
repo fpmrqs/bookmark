@@ -1,7 +1,5 @@
 require 'sinatra/base'
 require 'sinatra/reloader'
-
-# change class name below, in the config.ru & spec_helper
 require './lib/bookmarks'
 
 class Bookmark < Sinatra::Base
